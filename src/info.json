@@ -1,0 +1,10 @@
+{
+  "title": "Rekordbox Sync",
+  "id": "rkbxSync",
+  "author": "Vawlpe",
+  "description": "A 2-way sync plugin for MediaMonkey 5 providing full parity with Rekordbox DBs, XML exports, and legacy DBs for older versions of Rekordbox",
+  "version": "0.0.1",
+  "minAppVersion": "5.0.0",
+  "type": "sync",
+  "icon": "icon.png"
+}
